@@ -1,0 +1,43 @@
+Drag Race Script Instruction Set
+
+Introduction
+    Welcome to the Drag Race Script! This script allows you to conduct drag races in GTA V.
+    Please follow these instructions to make the most of its functionality.
+
+Preparation
+    Place BOTH LUA files in your scripts folder. (ReaganDragRace.lua and ReaganTimer.lua)
+    
+    Advice From The Dev:
+    Ensure you are using a non-personal vehicle for the best experience.
+    If you prefer to use your personal vehicle, consider "cloning" it using the in-game menu.
+    
+Using the Script
+    Open the menu and navigate to the "DragMenu" submenu.
+    Select your desired race distance from the available options (e.g., 1/8 Mile, 1/4 Mile, etc.).
+    Click "Start Drag Race" to initiate the race.
+    Once started, the script will display a countdown on your license plate.
+    Pay attention to the countdown and get ready to accelerate when it flashes "GO".
+
+During the Race
+    As you race, your vehicle's speed will be displayed on the license plate in real-time.
+    The race will finish automatically when you reach the selected race distance.
+
+Stopping the Race
+    If you want to restart or stop, press the CANCEL button to abort the race.
+    you can then start a new race if so desired. 
+
+Jump Starts
+    If you jump the line before GO the race will be cacelled and "JUMPED" will be displayed on the license plate.
+
+Race Results
+    Upon finishing the race, the license plate will display your elapsed time.
+    Additionally, the final speed of your vehicle and other information will be printed to the debug menu.
+
+Contact for Help or Feedback
+    If you encounter any issues or have feedback, please reach out to me on Discord. Contact ronnir.r.1989 
+
+Note
+    Keep in mind that this script is not permanent and works best with non-personal vehicles.
+    personal vehicles will reset their plate automatically giving a not so great experience.
+    Keep in mind that if something happens, personal plates may be permanently changed.
+    Just clone your personal vehicle in Online Vehicle Spawner in Kiddions Modest Menu.
